@@ -1,0 +1,17 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background-color: gold;
+    font-size: 2rem;
+}
+button, input{
+    font-size: 2rem;
+    color:black(0, 255, 106); 
+    background-color: white(155, 55, 55, 0.609);
+}
+
+button{
+    border: 2 px solid yellowgreen;
+    border-radius: 1em;
+    padding: 0.5em;
+}
